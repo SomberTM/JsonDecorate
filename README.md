@@ -1,1 +1,1 @@
-# 
+Serialize and deserialize json data to and from classes using experimental decorators
