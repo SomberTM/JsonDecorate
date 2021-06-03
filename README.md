@@ -7,8 +7,8 @@ json-decorate makes use of typescripts experimental decorators and therefore mus
 ```json
 {
     "compilerOptions": {
-        "experimentalDecorators": true, /* Enables experimental support for ES7 decorators. */
-        "emitDecoratorMetadata": true  /* Enables experimental support for emitting type metadata for decorators. */
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true  
     }
 }
 ```
