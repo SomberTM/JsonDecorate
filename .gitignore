@@ -1,4 +1,5 @@
 dist/
+src/deprecated/
 *.js
 node_modules/
 

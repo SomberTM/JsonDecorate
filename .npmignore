@@ -1,5 +1,5 @@
 src/
-*.ts
+dist/deprecated/
 
 package-lock.json
 tsconfig.json
